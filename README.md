@@ -11,3 +11,7 @@ numeri dispari precedenti ad esso.
 # 2) Numeri primi
 "Programmino realizzato il 26/03/2020"
 accoglie un numero in INPUT e stampa tutti i numeri primi precedenti (TODO)
+
+# 3) Figure geometriche
+"Programmino realizzato il 26/03/2020 in fase di completamento"
+classi cerchio triangolo ecc..
