@@ -1,17 +1,7 @@
 # Esercizi di matematica
 
-Applicazione dei concetti matematici appresi in programmi
-python 
+Applicazione dei concetti matematici e geometrici appresi ora applicati in programmi
+in linguaggio python 
 
-# 1) Numeri pari e dispari
-"Programmino" realizzato il 24/03/2020
-accoglie in input un numero  qualsiasi maggiore di 1 e stampa tutti i 
-numeri dispari precedenti ad esso.
-
-# 2) Numeri primi
-"Programmino realizzato il 26/03/2020"
-accoglie un numero in INPUT e stampa tutti i numeri primi precedenti (TODO)
-
-# 3) Figure geometriche
-"Programmino realizzato il 26/03/2020 in fase di completamento"
-classi cerchio triangolo ecc..
+# >libreria_matematica.py
+In questa libreria troverete vari concetti matematici da quelli più elemente
